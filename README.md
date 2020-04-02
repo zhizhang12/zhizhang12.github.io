@@ -2,18 +2,18 @@
 
 这里目前什么都没有，以后会加东西的，比如说网站，文章，视频什么的。。。
 
-####各种频道，个人资料什么的
+各种频道，个人资料什么的
 
-YouTube:
+# YouTube:
 https://www.youtube.com/channel/UCMCv-l-DMt4YXd_FSdKCq8Q?view_as=subscriber
 
-BiliBili:
+# BiliBili:
 https://space.bilibili.com/352734569
 
-Steam:
+# Steam:
 https://steamcommunity.com/id/QAQYA/
 
-pixiv:
+# pixiv:
 https://www.pixiv.net/users/42750962
 
 ### ：D
