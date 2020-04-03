@@ -36,6 +36,9 @@
 <a href="https://zhizhang12.github.io/chifan.jpg">如果下方的图片显示不出来的话点击跳转</a>
 ![image](.https://github.com/zhizhang12/zhizhang12.github.io/edit/master/chifan.jpg)
 
-
+# :-)碎碎念
+没什么......
+# :-( 404 Not Found
+<a href="https://zhizhang12.github.io/404.md">404 Not Found</a>
 # ：D
 建站时间:北京时间2020/2/4 18:34分
