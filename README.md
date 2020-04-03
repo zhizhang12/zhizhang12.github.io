@@ -33,8 +33,8 @@
 
 # 打赏
 求大佬给小的捐点钱吧！经费不足，没饭吃啊！(目前本人正在学习UE4中)
-<a href="https://zhizhang12.github.io/chifan.jpg">点击跳转</a>
-
+<a href="https://zhizhang12.github.io/chifan.jpg">如果下方的图片显示不出来的话点击跳转</a>
+![image](.https://github.com/zhizhang12/zhizhang12.github.io/edit/master/chifan.jpg)
 
 
 # ：D
