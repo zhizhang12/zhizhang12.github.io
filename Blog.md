@@ -1,6 +1,5 @@
 ---
-title: Blog
-date: 2020-03-04 14:56:00
+title: Blogzong
 ---
 
 <center>
