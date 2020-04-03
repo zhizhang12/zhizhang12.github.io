@@ -36,7 +36,7 @@
 
 # 打赏
 求大佬给小的捐点钱吧！经费不足，没饭吃啊！
-![image](https://github.com/zhizhang12/zhizhang12.github.io/chifan.jpg)
+<a href="https://zhizhang12.github.io/chifana.html">点击跳转</a>
 
 
 
