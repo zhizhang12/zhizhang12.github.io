@@ -1,4 +1,5 @@
 # 欢迎来到zhizhang12的个人网站
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=535032&auto=1&height=66"></iframe>
 
 这里目前什么都没有，以后会加东西的，比如说网站，文章，视频什么的。。。
 
@@ -36,7 +37,7 @@
 
 # 打赏
 求大佬给小的捐点钱吧！经费不足，没饭吃啊！
-<a href="https://zhizhang12.github.io/chifana.html">点击跳转</a>
+<a href="https://www.flickr.com/photos/187724660@N06/49730077338/in/dateposted-public/">点击跳转</a>
 
 
 
