@@ -33,5 +33,12 @@
 
 
 
+
+#打赏
+求大佬给小的捐点钱吧！经费不足，没饭吃啊！
+![image](https://github.com/zhizhang12/zhizhang12.github.io/chifan.jpg)
+
+
+
 # ：D
 建站时间:北京时间2020/2/4 18:34分
