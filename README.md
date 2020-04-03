@@ -1,5 +1,4 @@
 # 欢迎来到zhizhang12的个人网站
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=535032&auto=1&height=66"></iframe>
 
 这里目前什么都没有，以后会加东西的，比如说网站，文章，视频什么的。。。
 
