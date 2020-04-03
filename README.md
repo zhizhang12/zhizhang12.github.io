@@ -28,7 +28,7 @@
 
 # 博客
 
-<a href="https://zhizhang12.github.io/Blog.html">点击跳转</a>
+<a href="https://zhizhang12.github.io/Blog.htm">点击跳转</a>
 
 
 
