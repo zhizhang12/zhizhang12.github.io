@@ -28,7 +28,7 @@
 
 # 博客
 
-
+<a href="https://zhizhang12.github.io/Blog.md">点击跳转</a>
 
 
 
