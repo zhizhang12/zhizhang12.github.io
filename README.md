@@ -36,8 +36,8 @@
 
 
 # 打赏
-求大佬给小的捐点钱吧！经费不足，没饭吃啊！
-<a href="https://www.flickr.com/photos/187724660@N06/49730077338/in/dateposted-public/">点击跳转</a>
+求大佬给小的捐点钱吧！经费不足，没饭吃啊！(目前本人正在学习UE4中)
+<a href="https://zhizhang12.github.io/chifan.jpg">点击跳转</a>
 
 
 
