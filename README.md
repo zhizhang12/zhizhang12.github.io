@@ -20,17 +20,17 @@
 
 
 
-# 联系方式与频道
-## 邮箱
-### 邮箱(国内):lalu233@126.com
-### 邮箱(国内2):lalu233@yeah.net
-### 邮箱(国外):zhizhang123321@gmail.com
-## <a href="https://steamcommunity.com/id/QAQYA/">Steam:zhizhang12</a>
-## <a href="https://space.bilibili.com/352734569">bilibili:999999ZH</a>
-## <a href="https://www.youtube.com/channel/UCMCv-l-DMt4YXd_FSdKCq8Q?view_as=subscriber">YouTube:zhizhang</a>
-## <a href="https://www.pixiv.net/users/42750962">pixiv:zhizhang12</a>
-## <a href="https://github.com/zhizhang12">GitHub:zhizhang12</a>
-## <a href="https://gitee.com/zhizhang12">gitee:zhizhang12</a>
+ 联系方式与频道
+ 邮箱
+ 邮箱(国内):lalu233@126.com
+ 邮箱(国内2):lalu233@yeah.net
+ 邮箱(国外):zhizhang123321@gmail.com
+ <a href="https://steamcommunity.com/id/QAQYA/">Steam:zhizhang12</a>
+ <a href="https://space.bilibili.com/352734569">bilibili:999999ZH</a>
+ <a href="https://www.youtube.com/channel/UCMCv-l-DMt4YXd_FSdKCq8Q?view_as=subscriber">YouTube:zhizhang</a>
+ <a href="https://www.pixiv.net/users/42750962">pixiv:zhizhang12</a>
+ <a href="https://github.com/zhizhang12">GitHub:zhizhang12</a>
+ <a href="https://gitee.com/zhizhang12">gitee:zhizhang12</a>
 
 
 # 打赏
