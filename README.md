@@ -1,5 +1,10 @@
-# :-( 404 Not Found
-<a href="https://zhizhang12.github.io/404.md">404 Not Found</a>
+#欢迎来到NoNa服务器
+
+请喝口水加一下QQ群稍等一小段时间(大概一两分钟)
+
+
+#QQ群:1084446473
+
 
 
 
